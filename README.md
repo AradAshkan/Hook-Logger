@@ -53,9 +53,12 @@ Messages will appear in your webhook channel in the same order.
 - Keep your webhook URL secret. Do **not** commit it to public repositories.
 - Webhooks can post to your channel. If leaked, regenerate/rotate the webhook URL.
 
+
 ---
 
 ## 📝 License
 Read the License first !
 
 ---
+## Code Prieview 
+<img width="1850" height="2382" alt="code" src="https://github.com/user-attachments/assets/10100f2e-466f-4260-92a2-e00a4a6519da" />
