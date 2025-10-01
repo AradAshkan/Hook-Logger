@@ -60,5 +60,4 @@ Messages will appear in your webhook channel in the same order.
 Read the License first !
 
 ---
-## Code Prieview 
-<img width="1850" height="2382" alt="code" src="https://github.com/user-attachments/assets/10100f2e-466f-4260-92a2-e00a4a6519da" />
+
